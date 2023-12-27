@@ -1,4 +1,4 @@
-﻿# GeeksforGeek
+﻿# GeeksforGeeks
 
 # Array
 
