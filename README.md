@@ -11,7 +11,7 @@
 |Arr.5 | [Three way partitioning](https://practice.geeksforgeeks.org/problems/three-way-partitioning/1)|easy|O(N)|O(1)|[solution](https://github.com/3314-HARSH/harshu_gfg/blob/main/Array/Arr.5.js)|
 |Arr.6 | [Smallest subarray with sum greater than x](https://www.geeksforgeeks.org/problems/smallest-subarray-with-sum-greater-than-x5651/1)|easy|O(N)|O(1)|[solution](https://github.com/3314-HARSH/harshu_gfg/blob/main/Array/Arr.6.js)|
 |Arr.7 | [Trapping rain water](https://www.geeksforgeeks.org/problems/trapping-rain-water-1587115621/1)|medium|O(N)|O(1)|[solution](https://github.com/3314-HARSH/harshu_gfg/blob/main/Array/Arr.7.js)|
-|Arr.8 | [kth element of two sorted array](https://www.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1)|medium|O(N)|O(1)||[solution](https://github.com/3314-HARSH/harshu_gfg/blob/main/Array/Arr.8.js)|
+|Arr.8 | [kth element of two sorted array](https://www.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1)|medium|O(N)|O(1)|[solution](https://github.com/3314-HARSH/harshu_gfg/blob/main/Array/Arr.8.js)|
 
 # String
 
