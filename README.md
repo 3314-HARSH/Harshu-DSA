@@ -13,6 +13,7 @@
 |Arr.7 | [Trapping rain water](https://www.geeksforgeeks.org/problems/trapping-rain-water-1587115621/1)|medium|O(N)|O(1)|[solution](https://github.com/3314-HARSH/harshu_gfg/blob/main/Array/Arr.7.js)|
 |Arr.8 | [kth element of two sorted array](https://www.geeksforgeeks.org/problems/k-th-element-of-two-sorted-array1317/1)|medium|O(N)|O(1)|[solution](https://github.com/3314-HARSH/harshu_gfg/blob/main/Array/Arr.8.js)|
 |Arr.9 | [first negative integer in every window of size k](https://www.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k3345/1)|medium|O(N)|O(N)|[solution](https://github.com/3314-HARSH/harshu_gfg/blob/main/Array/Arr.9.js)|
+|Arr.10 | [Daily temperatures](https://leetcode.com/problems/daily-temperatures/)|medium , leetcode|O(N)|O(N)|[solution](https://github.com/3314-HARSH/harshu_gfg/blob/main/Array/Arr.10.js)|
 
 # String
 
