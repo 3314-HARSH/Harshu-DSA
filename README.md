@@ -22,3 +22,4 @@
 | --- | ------- | ----- | ---- | ----- | -------- |
 |Str.1 | [Count More than n/k Occurences](https://practice.geeksforgeeks.org/problems/count-element-occurences/1)|easy|O(N)|O(N)|[solution](https://github.com/3314-HARSH/harshu_gfg/blob/main/String/Str.1.js)|
 |Str.2| [Remove all duplicates from a given string](https://practice.geeksforgeeks.org/problems/remove-all-duplicates-from-a-given-string4321/1)|easy|O(N)|O(N)|[solution](https://github.com/3314-HARSH/harshu_gfg/blob/main/String/Str.2.js)|
+|Str.3| [Palindrome string](https://www.geeksforgeeks.org/problems/palindrome-string0817/1)|easy|O(N)|O(1)|[solution](https://github.com/3314-HARSH/harshu_gfg/blob/main/String/Str.3.js)|
