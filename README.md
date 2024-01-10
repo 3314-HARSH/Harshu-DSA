@@ -16,6 +16,7 @@
 |Arr.10 | [Daily temperatures](https://leetcode.com/problems/daily-temperatures/)|medium , leetcode|O(N)|O(N)|[solution](https://github.com/3314-HARSH/harshu_gfg/blob/main/Array/Arr.10.js)|
 |Arr.11 | [Zero sum subarrays](https://www.geeksforgeeks.org/problems/zero-sum-subarrays1825/1)|medium|O(N)|O(N)|[solution](https://github.com/3314-HARSH/harshu_gfg/blob/main/Array/Arr.11.js)|
 |Arr.12 | [Count the subarrays having product less than k](https://www.geeksforgeeks.org/problems/count-the-subarrays-having-product-less-than-k1708/1)|medium|O(N)|O(1)|[solution](https://github.com/3314-HARSH/harshu_gfg/blob/main/Array/Arr.12.js)|
+|Arr.13 | [Smallest distant window](https://www.geeksforgeeks.org/problems/smallest-distant-window3132/1)|medium|O(N)|O(256)|[solution](https://github.com/3314-HARSH/harshu_gfg/blob/main/Array/Arr.13.js)|
 
 # String
 
