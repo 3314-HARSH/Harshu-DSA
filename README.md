@@ -18,6 +18,7 @@
 |Arr.12 | [Count the subarrays having product less than k](https://www.geeksforgeeks.org/problems/count-the-subarrays-having-product-less-than-k1708/1)|medium|O(N)|O(1)|[solution](https://github.com/3314-HARSH/harshu_gfg/blob/main/Array/Arr.12.js)|
 |Arr.13 | [Smallest distant window](https://www.geeksforgeeks.org/problems/smallest-distant-window3132/1)|medium|O(N)|O(256)|[solution](https://github.com/3314-HARSH/harshu_gfg/blob/main/Array/Arr.13.js)|
 |Arr.14 | [Spirally traversing a matrix](https://www.geeksforgeeks.org/problems/spirally-traversing-a-matrix-1587115621/1)|medium|O(N)|O(N)|[solution](https://github.com/3314-HARSH/harshu_gfg/blob/main/Array/Arr.14.js)|
+|Arr.15 | [Smallest Positive missing number](https://www.geeksforgeeks.org/problems/smallest-positive-missing-number-1587115621/1)|medium|O(N)|O(1)|[solution](https://github.com/3314-HARSH/harshu_gfg/blob/main/Array/Arr.15.js)|
 
 # String
 
