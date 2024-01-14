@@ -32,3 +32,8 @@
 | No  | Problem | Level | Time | Space | Solution |
 | --- | ------- | ----- | ---- | ----- | -------- |
 |DP.1 | [Painting the fence](https://www.geeksforgeeks.org/problems/painting-the-fence3727/1)|medium|O(N)|O(1)|[solution](https://github.com/3314-HARSH/harshu_gfg/tree/main/DP/DP.1)|
+
+# Linked List
+| No  | Problem | Level | Time | Space | Solution |
+| --- | ------- | ----- | ---- | ----- | -------- |
+|LL.1 | [Intersection of two sorted Linked lists](https://www.geeksforgeeks.org/problems/intersection-of-two-sorted-linked-lists/1)|easy|O(N)|O(1)|[solution](https://github.com/3314-HARSH/harshu_gfg/tree/main/Linked%20List/LL.1)|
