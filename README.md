@@ -23,6 +23,7 @@
 |Arr.17 | [Overlapping intervals](https://www.geeksforgeeks.org/problems/overlapping-intervals--170633/1)|medium|O(nlogn)|O(N)|[solution](https://github.com/3314-HARSH/harshu_gfg/tree/main/Array/Arr.17)|
 |Arr.18 | [Quick sort](https://www.geeksforgeeks.org/problems/quick-sort/1)|medium|O(nlogn)|O(logn)|[solution](https://github.com/3314-HARSH/Harshu-DSA/tree/main/Array/Arr.18)|
 |Arr.19 | [Common elements](https://www.geeksforgeeks.org/problems/common-elements1132/1)|easy|O(n)|O(n)|[solution](https://github.com/3314-HARSH/Harshu-DSA/tree/main/Array/Arr.19)|
+|Arr.20 | [Subarrays with equal 1s and 0s](https://www.geeksforgeeks.org/problems/count-subarrays-with-equal-number-of-1s-and-0s-1587115620/1)|medium|O(n)|O(n)|[solution](https://github.com/3314-HARSH/Harshu-DSA/tree/main/Array/Arr.20)|
 
 # String
 
