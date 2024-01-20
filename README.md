@@ -24,6 +24,7 @@
 |Arr.18 | [Quick sort](https://www.geeksforgeeks.org/problems/quick-sort/1)|medium|O(nlogn)|O(logn)|[solution](https://github.com/3314-HARSH/Harshu-DSA/tree/main/Array/Arr.18)|
 |Arr.19 | [Common elements](https://www.geeksforgeeks.org/problems/common-elements1132/1)|easy|O(n)|O(n)|[solution](https://github.com/3314-HARSH/Harshu-DSA/tree/main/Array/Arr.19)|
 |Arr.20 | [Subarrays with equal 1s and 0s](https://www.geeksforgeeks.org/problems/count-subarrays-with-equal-number-of-1s-and-0s-1587115620/1)|medium|O(n)|O(n)|[solution](https://github.com/3314-HARSH/Harshu-DSA/tree/main/Array/Arr.20)|
+|Arr.21 | [Longest alternating subsequence](https://www.geeksforgeeks.org/problems/longest-alternating-subsequence5951/1)|medium|O(n)|O(1)|[solution](https://github.com/3314-HARSH/Harshu-DSA/tree/main/Array/Arr.20)|
 
 # String
 
