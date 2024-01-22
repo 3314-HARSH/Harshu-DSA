@@ -26,6 +26,7 @@
 |Arr.20 | [Subarrays with equal 1s and 0s](https://www.geeksforgeeks.org/problems/count-subarrays-with-equal-number-of-1s-and-0s-1587115620/1)|medium|O(n)|O(n)|[solution](https://github.com/3314-HARSH/Harshu-DSA/tree/main/Array/Arr.20)|
 |Arr.21 | [Longest alternating subsequence](https://www.geeksforgeeks.org/problems/longest-alternating-subsequence5951/1)|medium|O(n)|O(1)|[solution](https://github.com/3314-HARSH/Harshu-DSA/tree/main/Array/Arr.21)|
 |Arr.22 | [Pow(x, n)](https://leetcode.com/problems/powx-n/)|medium|O(logn)|O(1)|[solution](https://github.com/3314-HARSH/Harshu-DSA/tree/main/Array/Arr.22)|
+|Arr.23 | [Stock span problem](https://www.geeksforgeeks.org/problems/stock-span-problem-1587115621/1)|medium|O(n)|O(1)|[solution](https://github.com/3314-HARSH/Harshu-DSA/tree/main/Array/Arr.23)|
 
 # String
 
