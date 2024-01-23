@@ -45,3 +45,8 @@
 | No  | Problem | Level | Time | Space | Solution |
 | --- | ------- | ----- | ---- | ----- | -------- |
 |LL.1 | [Intersection of two sorted Linked lists](https://www.geeksforgeeks.org/problems/intersection-of-two-sorted-linked-lists/1)|easy|O(N)|O(1)|[solution](https://github.com/3314-HARSH/harshu_gfg/tree/main/Linked%20List/LL.1)|
+
+# Math
+| No  | Problem | Level | Time | Space | Solution |
+| --- | ------- | ----- | ---- | ----- | -------- |
+|Math.1 | [Count good numbers](https://leetcode.com/problems/count-good-numbers/)|medium|O(logN)|O(1)|[solution](https://github.com/3314-HARSH/Harshu-DSA/tree/main/Math/Math.1)|
