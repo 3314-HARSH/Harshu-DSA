@@ -50,3 +50,9 @@
 | No  | Problem | Level | Time | Space | Solution |
 | --- | ------- | ----- | ---- | ----- | -------- |
 |Math.1 | [Count good numbers](https://leetcode.com/problems/count-good-numbers/)|medium|O(logN)|O(1)|[solution](https://github.com/3314-HARSH/Harshu-DSA/tree/main/Math/Math.1)|
+
+
+# Recursion
+| No  | Problem | Level | Time | Space | Solution |
+| --- | ------- | ----- | ---- | ----- | -------- |
+|RE.1 | [subsets](https://leetcode.com/problems/subsets/)|medium|O(2**N)|O(n)|[solution](https://github.com/3314-HARSH/Harshu-DSA/tree/main/Recursion/RE.1)|
