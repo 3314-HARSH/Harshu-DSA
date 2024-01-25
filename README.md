@@ -56,3 +56,9 @@
 | No  | Problem | Level | Time | Space | Solution |
 | --- | ------- | ----- | ---- | ----- | -------- |
 |RE.1 | [subsets](https://leetcode.com/problems/subsets/)|medium|O(2**N)|O(n)|[solution](https://github.com/3314-HARSH/Harshu-DSA/tree/main/Recursion/RE.1)|
+
+
+# Binary Tree
+| No  | Problem | Level | Time | Space | Solution |
+| --- | ------- | ----- | ---- | ----- | -------- |
+|BT.1 | [Flatten binary tree to linked list](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|medium|O(n)|O(1)|[solution](https://github.com/3314-HARSH/Harshu-DSA/tree/main/Binary-tree/BT.1)|
