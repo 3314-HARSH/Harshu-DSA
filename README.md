@@ -55,7 +55,9 @@
 # Recursion
 | No  | Problem | Level | Time | Space | Solution |
 | --- | ------- | ----- | ---- | ----- | -------- |
-|RE.1 | [subsets](https://leetcode.com/problems/subsets/)|medium|O(2**N)|O(n)|[solution](https://github.com/3314-HARSH/Harshu-DSA/tree/main/Recursion/RE.1)|
+|RE.1 | [Subsets](https://leetcode.com/problems/subsets/)|medium|O(2**N)|O(n)|[solution](https://github.com/3314-HARSH/Harshu-DSA/tree/main/Recursion/RE.1)|
+|RE.2 | [Generate parentheses](https://leetcode.com/problems/generate-parentheses/)|medium|O(2**N)|O(n)|[solution](https://github.com/3314-HARSH/Harshu-DSA/tree/main/Recursion/RE.2)|
+ 
 
 
 # Binary Tree
