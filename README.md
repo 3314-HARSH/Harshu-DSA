@@ -58,7 +58,8 @@
 |RE.1 | [Subsets](https://leetcode.com/problems/subsets/)|medium|O(2**N)|O(n)|[solution](https://github.com/3314-HARSH/Harshu-DSA/tree/main/Recursion/RE.1)|
 |RE.2 | [Generate parentheses](https://leetcode.com/problems/generate-parentheses/)|medium|O(2**N)|O(n)|[solution](https://github.com/3314-HARSH/Harshu-DSA/tree/main/Recursion/RE.2)|
 |RE.3 | [Combination sum](https://leetcode.com/problems/combination-sum/)|medium|O(N**N)|O(2**N)|[solution](https://github.com/3314-HARSH/Harshu-DSA/tree/main/Recursion/RE.3)|
-|RE.4 | [Combination sum ii](https://leetcode.com/problems/combination-sum-ii/description/)|medium|O(2**N)|O(2**N)|[solution](https://github.com/3314-HARSH/Harshu-DSA/tree/main/Recursion/RE.4)|
+|RE.4 | [Combination sum ii](https://leetcode.com/problems/combination-sum-ii/)|medium|O(2**N)|O(2**N)|[solution](https://github.com/3314-HARSH/Harshu-DSA/tree/main/Recursion/RE.4)|
+|RE.5 | [Combination sum iii](https://leetcode.com/problems/combination-sum-iii/)|medium|O(2**N)|O(N)|[solution](https://github.com/3314-HARSH/Harshu-DSA/tree/main/Recursion/RE.5)|
 
  
 
