@@ -74,4 +74,4 @@
 | No  | Problem | Level | Time | Space | Solution |
 | --- | ------- | ----- | ---- | ----- | -------- |
 |BS.1 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/)|medium|O(nlogn)|O(1)|[solution](https://github.com/3314-HARSH/Harshu-DSA/tree/main/Binary-search/BS.1)|
-|BS.2 | [Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/)|medium|O(nlogn)|O(1)|[solution](https://github.com/3314-HARSH/Harshu-DSA/tree/main/Binary-search/BS.1)|
+|BS.2 | [Minimum Number of Days to Make m Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/)|medium|O(nlogn)|O(1)|[solution](https://github.com/3314-HARSH/Harshu-DSA/tree/main/Binary-search/BS.2)|
