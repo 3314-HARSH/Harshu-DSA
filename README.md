@@ -61,7 +61,7 @@
 |RE.4 | [Combination sum ii](https://leetcode.com/problems/combination-sum-ii/)|medium|O(2**N)|O(2**N)|[solution](https://github.com/3314-HARSH/Harshu-DSA/tree/main/Recursion/RE.4)|
 |RE.5 | [Combination sum iii](https://leetcode.com/problems/combination-sum-iii/)|medium|O(2**N)|O(N)|[solution](https://github.com/3314-HARSH/Harshu-DSA/tree/main/Recursion/RE.5)|
 |RE.6 | [Subsets ii](https://leetcode.com/problems/subsets-ii/)|medium|O(2**N * k)|O(2**N * k)|[solution](https://github.com/3314-HARSH/Harshu-DSA/tree/main/Recursion/RE.6)|
-
+|RE.7 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|medium|O(k**N)|O(k**N + n)|[solution](https://github.com/3314-HARSH/Harshu-DSA/tree/main/Recursion/RE.7)|
  
 
 
