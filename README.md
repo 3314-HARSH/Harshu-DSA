@@ -45,6 +45,8 @@
 | No  | Problem | Level | Time | Space | Solution |
 | --- | ------- | ----- | ---- | ----- | -------- |
 |LL.1 | [Intersection of two sorted Linked lists](https://www.geeksforgeeks.org/problems/intersection-of-two-sorted-linked-lists/1)|easy|O(N)|O(1)|[solution](https://github.com/3314-HARSH/harshu_gfg/tree/main/Linked%20List/LL.1)|
+|LL.3 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)|easy|O(N)|O(1)|[solution](https://github.com/3314-HARSH/harshu_gfg/tree/main/Linked%20List/LL.3)|
+|LL.4 | [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/)|hard|O(N)|O(N/k)|[solution](https://github.com/3314-HARSH/harshu_gfg/tree/main/Linked%20List/LL.4)|
 
 # Math
 | No  | Problem | Level | Time | Space | Solution |
