@@ -2,6 +2,8 @@
  * @param {string} s
  * @return {string[][]}
  */
+ // time k**n * k (where k = length of s and n = number of level)
+ // space k**n
 function isPalindrome(str) {
   let i = 0,
     j = str.length - 1;
