@@ -64,7 +64,8 @@
 |RE.5 | [Combination sum iii](https://leetcode.com/problems/combination-sum-iii/)|medium|O(2**N)|O(N)|[solution](https://github.com/3314-HARSH/Harshu-DSA/tree/main/Recursion/RE.5)|
 |RE.6 | [Subsets ii](https://leetcode.com/problems/subsets-ii/)|medium|O(2**N * k)|O(2**N * k)|[solution](https://github.com/3314-HARSH/Harshu-DSA/tree/main/Recursion/RE.6)|
 |RE.7 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|medium|O(k**N)|O(k**N + n)|[solution](https://github.com/3314-HARSH/Harshu-DSA/tree/main/Recursion/RE.7)|
-|RE.8 | [ Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|medium|O(k**N * k)|O(k**N)|[solution](https://github.com/3314-HARSH/Harshu-DSA/tree/main/Recursion/RE.8)|
+|RE.8 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|medium|O(k**N * k)|O(k**N)|[solution](https://github.com/3314-HARSH/Harshu-DSA/tree/main/Recursion/RE.8)|
+|RE.9 | [Word Search](https://leetcode.com/problems/word-search/)|medium|O(n^2 * 4^m) |O(m)|[solution](https://github.com/3314-HARSH/Harshu-DSA/tree/main/Recursion/RE.9)|
  
 
 
