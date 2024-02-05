@@ -15,7 +15,8 @@
 //  if no match is found , return false;
 //  upon return from recursion function, reassign that particular place with its actual
 //  value
-
+// time O(n^2 * 4^m ) where n = length of an array and m = length of word
+// space O(m) m = length of an array
 var exist = function (board, word) {
   let m = board.length;
   let n = board[0].length;
