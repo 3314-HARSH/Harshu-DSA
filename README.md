@@ -74,6 +74,7 @@
 | No  | Problem | Level | Time | Space | Solution |
 | --- | ------- | ----- | ---- | ----- | -------- |
 |BT.1 | [Flatten binary tree to linked list](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/)|medium|O(n)|O(1)|[solution](https://github.com/3314-HARSH/Harshu-DSA/tree/main/Binary-tree/BT.1)|
+|BT.2 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)|easy|O(n)|O(n)|[solution](https://github.com/3314-HARSH/Harshu-DSA/tree/main/Binary-tree/BT.2)|
 
 # Binary Search
 | No  | Problem | Level | Time | Space | Solution |
