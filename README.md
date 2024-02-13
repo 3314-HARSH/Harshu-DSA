@@ -53,6 +53,7 @@
 | No  | Problem | Level | Time | Space | Solution |
 | --- | ------- | ----- | ---- | ----- | -------- |
 |Math.1 | [Count good numbers](https://leetcode.com/problems/count-good-numbers/)|medium|O(logN)|O(1)|[solution](https://github.com/3314-HARSH/Harshu-DSA/tree/main/Math/Math.1)|
+|Math.2 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/)|medium|O(N)|O(1)|[solution](https://github.com/3314-HARSH/Harshu-DSA/tree/main/Math/Math.2)|
 
 
 # Recursion
