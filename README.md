@@ -81,6 +81,7 @@
 |BT.4 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)|easy|O(n)|O(n)|[solution](https://github.com/3314-HARSH/Harshu-DSA/tree/main/Binary-tree/BT.4)|
 |BT.5 | [Bottom view of binary tree](https://www.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1)|medium|O(n)|O(w),where w=width of tree|[solution](https://github.com/3314-HARSH/Harshu-DSA/tree/main/Binary-tree/BT.5)|
 |BT.6 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|medium|O(n)|O(n)|[solution](https://github.com/3314-HARSH/Harshu-DSA/tree/main/Binary-tree/BT.6)|
+|BT.7 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|medium|O(n)|O(n)|[solution](https://github.com/3314-HARSH/Harshu-DSA/tree/main/Binary-tree/BT.7)|
 
 # Binary Search
 | No  | Problem | Level | Time | Space | Solution |
