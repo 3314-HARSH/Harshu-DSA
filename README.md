@@ -68,7 +68,8 @@
 |RE.7 | [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/)|medium|O(k**N)|O(k**N + n)|[solution](https://github.com/3314-HARSH/Harshu-DSA/tree/main/Recursion/RE.7)|
 |RE.8 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)|medium|O(k**N * k)|O(k**N)|[solution](https://github.com/3314-HARSH/Harshu-DSA/tree/main/Recursion/RE.8)|
 |RE.9 | [Word Search](https://leetcode.com/problems/word-search/)|medium|O(n^2 * 4^m) |O(m)|[solution](https://github.com/3314-HARSH/Harshu-DSA/tree/main/Recursion/RE.9)|
-|RE.10 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|medium|O(9^81) |O(1)|[solution](https://github.com/3314-HARSH/Harshu-DSA/tree/main/Recursion/RE.10)|
+|RE.10 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|hard|O(9^81) |O(1)|[solution](https://github.com/3314-HARSH/Harshu-DSA/tree/main/Recursion/RE.10)|
+|RE.11 | [N-Queens](https://leetcode.com/problems/n-queens/)|hard|O(n^n) |O(n^2)|[solution](https://github.com/3314-HARSH/Harshu-DSA/tree/main/Recursion/RE.11)|
  
 
 
@@ -83,6 +84,7 @@
 |BT.6 | [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view/)|medium|O(n)|O(n)|[solution](https://github.com/3314-HARSH/Harshu-DSA/tree/main/Binary-tree/BT.6)|
 |BT.7 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|medium|O(n)|O(n)|[solution](https://github.com/3314-HARSH/Harshu-DSA/tree/main/Binary-tree/BT.7)|
 |BT.8 | [Same Tree](https://leetcode.com/problems/same-tree/)|easy|O(n)|O(logn)|[solution](https://github.com/3314-HARSH/Harshu-DSA/tree/main/Binary-tree/BT.8)|
+|BT.9 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|hard|O(n)|O(n)|[solution](https://github.com/3314-HARSH/Harshu-DSA/tree/main/Binary-tree/BT.9)|
 
 # Binary Search
 | No  | Problem | Level | Time | Space | Solution |
