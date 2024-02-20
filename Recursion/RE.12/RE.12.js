@@ -13,6 +13,8 @@
 //  The function called for each element of the matrix is recursive in nature.
 //  it recursively checks the top , bottom , left and right directions.
 //  finally, it returns the increasing-path value;
+// time: O(n * m)
+// space: O(n * m)
 var longestIncreasingPath = function (matrix) {
   let rows = matrix.length;
   let cols = matrix[0].length;
