@@ -72,6 +72,7 @@
 |RE.9 | [Word Search](https://leetcode.com/problems/word-search/)|medium|O(n^2 * 4^m) |O(m)|[solution](https://github.com/3314-HARSH/Harshu-DSA/tree/main/Recursion/RE.9)|
 |RE.10 | [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/)|hard|O(9^81) |O(1)|[solution](https://github.com/3314-HARSH/Harshu-DSA/tree/main/Recursion/RE.10)|
 |RE.11 | [N-Queens](https://leetcode.com/problems/n-queens/)|hard|O(n^n) |O(n^2)|[solution](https://github.com/3314-HARSH/Harshu-DSA/tree/main/Recursion/RE.11)|
+|RE.12 | [Longest Increasing Path in a Matrix](https://leetcode.com/problems/longest-increasing-path-in-a-matrix/)|hard|O(n*m) |O(n*m)|[solution](https://github.com/3314-HARSH/Harshu-DSA/tree/main/Recursion/RE.12)|
  
 
 
