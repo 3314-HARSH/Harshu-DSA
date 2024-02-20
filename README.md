@@ -27,6 +27,7 @@
 |Arr.21 | [Longest alternating subsequence](https://www.geeksforgeeks.org/problems/longest-alternating-subsequence5951/1)|medium|O(n)|O(1)|[solution](https://github.com/3314-HARSH/Harshu-DSA/tree/main/Array/Arr.21)|
 |Arr.22 | [Pow(x, n)](https://leetcode.com/problems/powx-n/)|medium|O(logn)|O(1)|[solution](https://github.com/3314-HARSH/Harshu-DSA/tree/main/Array/Arr.22)|
 |Arr.23 | [Stock span problem](https://www.geeksforgeeks.org/problems/stock-span-problem-1587115621/1)|medium|O(n)|O(1)|[solution](https://github.com/3314-HARSH/Harshu-DSA/tree/main/Array/Arr.23)|
+|Arr.24 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)|easy|O(1)|O(1)|[solution](https://github.com/3314-HARSH/Harshu-DSA/tree/main/Array/Arr.24)|
 
 # String
 
@@ -85,6 +86,7 @@
 |BT.7 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/)|medium|O(n)|O(n)|[solution](https://github.com/3314-HARSH/Harshu-DSA/tree/main/Binary-tree/BT.7)|
 |BT.8 | [Same Tree](https://leetcode.com/problems/same-tree/)|easy|O(n)|O(logn)|[solution](https://github.com/3314-HARSH/Harshu-DSA/tree/main/Binary-tree/BT.8)|
 |BT.9 | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/)|hard|O(n)|O(n)|[solution](https://github.com/3314-HARSH/Harshu-DSA/tree/main/Binary-tree/BT.9)|
+|BT.10 | [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)|medium|O(n)|O(n)|[solution](https://github.com/3314-HARSH/Harshu-DSA/tree/main/Binary-tree/BT.10)|
 
 # Binary Search
 | No  | Problem | Level | Time | Space | Solution |
